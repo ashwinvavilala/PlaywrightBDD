@@ -125,4 +125,4 @@ This ensures your application is tested across both desktop and mobile environme
 
 ## Author
 
-Priyanka Arora
+Ashwin Vavilala
