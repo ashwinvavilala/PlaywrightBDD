@@ -10,7 +10,7 @@
     "format:check": "prettier --check ."
   },
   "keywords": [],
-  "author": "Priyanka Arora",
+  "author": "Ashwin Vavilala",
   "license": "ISC",
   "description": "QA Automation Playwright",
   "devDependencies": {
