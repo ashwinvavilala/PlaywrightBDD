@@ -15,7 +15,7 @@ This project is an automated end-to-end testing suite for web application, built
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/priyanka-r-arora/qa-automation-playwright.git
+   git clone https://github.com/ashwinvavilala/PlaywrightBDD.git
    cd qa-automation-playwright
    ```
 
